@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 文字颜色 -->
+    <color name="fontgray">#ff666666</color>
+    <color name="fontblue">#ff6ebb59</color>
+    <!-- 绿色 -->
+    <color name="home_page_text_color">#ffffff</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <color name="black_drug">#6F737B</color>
+    <!-- 灰白 -->
+    <color name="white">#ffFFFFFF</color>
+    <!-- 米色 -->
+    <color name="lightblue">#ADD8E6</color>
+    <color name="tabnosel">#EAEAEA</color>
+    <color name="tabsel">#6EBB59</color>
+    <!-- 红色 -->
+    <color name="red">#ffFF6000</color>
+    <color name="gray">#ffF9FBF5</color>
+    <color name="graybg">#ffEFEFEF</color>
+    <!-- 蓝色 -->
+    <color name="blue">#0068b7</color>
+    <!-- 亮蓝色 -->
+    <color name="grey21">#363636</color>
+    <!-- 透明 -->
+    <color name="home_nomal">#00000000</color>
+    <color name="home_focused">#99006600</color>
+    <color name="home_pressed">#22006600</color>
+    <color name="button_selected">#ff419de4</color>
+    <color name="page_selected">#ff0080C0</color>
+    <color name="page_noselected">#ff55C8FF</color>
+    <!-- 强调文字 -->
+    <color name="text_link">#0068b7</color>
+    <!-- 强调文字 -->
+    <color name="accent_color0">#f19149</color>
+    <!-- 强调文字 -->
+    <color name="accent_color1">#6ebb59</color>
+    <!-- 主文字 -->
+    <color name="The_main_text">#000000</color>
+    <!-- 辅助文字 -->
+    <color name="assist0">#666666</color>
+    <!-- 辅助文字 -->
+    <color name="assist1">#999999</color>
+    <!-- 报价详情 -->
+    <color name="offer">#333333</color>
+    <color name="offer1">#6ebb59</color>
+    <!-- 首页名字颜色 -->
+    <!-- 绿色 -->
+    <color name="green">#6ebb59</color>
+    <color name="green_title">#32B045</color>
+    <color name="indextxt">#608954</color>
+    <color name="oyellow">#fffec4</color>
+    <color name="line_blue">#859EFB</color>
+    <color name="line1_blue">#79DAF3</color>
+    <color name="nullColor">#00000000</color>
+    <color name="halfColor">#80000000</color>
+    <color name="applicationgray">#C0C0C0</color>
+    <color name="applicationyellow">#FF9912</color>
+    <color name="applicationred">#FF0000</color>
+    <color name="applicationlengray">#808A87</color>
+    <color name="feedbacklightblack">#636363</color>
+    <color name="applicationdetalightblack">#666666</color>
+    <color name="applicationdetamorelightblack">#999999</color>
+    <color name="small_loading_transbg">#BF000000</color>
+    <color name="success_black">#5f646e</color>
+    <color name="success_gray">#aaaaaa</color>
+    <color name="success_green">#6ebb59</color>
+    <color name="success_red">#ff6600</color>
+    <color name="success_darkred">#ff5500</color>
+    <color name="maindark_content">#333333</color>
+    <!-- 深黑 -->
+    <color name="main_content">#5f646e</color>
+    <color name="main_content_seconde">#aaaaaa</color>
+    <color name="important_content">#ff5500</color>
+    <color name="edit_hint">#cccccc</color>
+    <color name="diviline">#dddddd</color>
+    <color name="itemwhite">#ffffff</color>
+    <color name="bggrayoneself">#eeeeee</color>
+    <color name="darkgray">#666666</color>
+    <color name="listviewline">#C0C0C0</color>
+    <color name="tip_content">#8a8d85</color>
+    <color name="bg_gray">#f5f5f5</color>
+    <color name="radio_green">#388500</color>
+    <color name="line">#cccccc</color>
+    <color name="patAddress">#666460</color>
+    <color name="matching_color">#5e6366</color>
+    <color name="btn_green">#0EB14F</color>
+    <color name="transparent">#00000000</color>
+    <color name="hint_input">#e34428</color>
+    <color name="map_hint_line">#39b44a</color>
+    <color name="line_splite">#e1e1e1</color>
+    <color name="dark_red">#EB4F38</color>
+    <color name="upload_loading_cencal">#56ABE4</color>
+    <color name="camera_bottom">#23AC38</color>
+    <color name="home_tab_color">#F4F4F4</color>
+    <color name="home_search_color">#a9cdad</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="new_texthite">#aca8ac</color>
+    <color name="filter_select">#ff8e58</color>
+
+    <color name ="store_cart_ex">#B0ACA6</color>
+
+</resources>

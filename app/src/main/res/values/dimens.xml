@@ -1,0 +1,104 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="list_margin">16dp</dimen>
+    <dimen name="padding0">2dp</dimen>
+    <dimen name="padding">4dp</dimen>
+    <dimen name="padding2">8dp</dimen>
+    <dimen name="padding3">12dp</dimen>
+    <dimen name="padding4">16dp</dimen>
+    <dimen name="padding5">02dp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="img1">40dp</dimen>
+    <dimen name="size0">12dp</dimen>
+    <dimen name="size1">15dp</dimen>
+    <dimen name="size2">18dp</dimen>
+    <dimen name="size3">20dp</dimen>
+    <dimen name="size4">24dp</dimen>
+    <dimen name="sizesmall">12dp</dimen>
+    <dimen name="updatebar_height">62.0dip</dimen>
+    <dimen name="updatebar_content_height">60.0dip</dimen>
+    <dimen name="updatebar_padding">10.0dip</dimen>
+    <dimen name="standard_padding">8dip</dimen>
+    <dimen name="half_padding">4dip</dimen>
+    <dimen name="myapplicationbig">18dp</dimen>
+    <dimen name="myapplicationmoddile">15dp</dimen>
+    <dimen name="myapplicationsmaill">14dp</dimen>
+    <dimen name="myapplicationleft">10dp</dimen>
+    <dimen name="allbottom">10dp</dimen>
+    <dimen name="applicationsuccess_top">40dp</dimen>
+
+    <!-- 最新规范，请大家在下面填写 -->
+    <dimen name="title_hight88">44dp</dimen>
+    <dimen name="title_font36">18dp</dimen>
+    <dimen name="drug_distri_pading16">8dp</dimen>
+    <dimen name="drug_distri_pading24">12dp</dimen>
+    <dimen name="drug_distri_pading22">11dp</dimen>
+    <dimen name="drug_distri_pading160">80dp</dimen>
+    <dimen name="drug_distri_hor_pad30">15dp</dimen>
+    <dimen name="list_padding">12dp</dimen>
+    <dimen name="line_space0">0dp</dimen>
+    <dimen name="line_space1">0.5dp</dimen>
+    <dimen name="line_space2">0.5dp</dimen>
+    <dimen name="line_space4">2dp</dimen>
+    <dimen name="line_space8">4dp</dimen>
+    <dimen name="line_space10">5dp</dimen>
+    <dimen name="line_space16">8dp</dimen>
+    <dimen name="line_space20">10dp</dimen>
+    <dimen name="line_space24">12dp</dimen>
+    <dimen name="line_space28">14dp</dimen>
+    <dimen name="line_space32">16dp</dimen>
+    <dimen name="line_space36">18dp</dimen>
+    <dimen name="line_space40">20dp</dimen>
+    <dimen name="line_space48">24dp</dimen>
+    <dimen name="line_space12">6dp</dimen>
+    <dimen name="line_space80">40dp</dimen>
+    <dimen name="line_space240">120dp</dimen>
+    <dimen name="line_space150">75dp</dimen>
+    <dimen name="line_space160">80dp</dimen>
+    <dimen name="line_space180">90dp</dimen>
+    <dimen name="line_space60">30dp</dimen>
+    <dimen name="line_space66">33dp</dimen>
+    <dimen name="line_space76">38dp</dimen>
+    <dimen name="line_space64">32dp</dimen>
+    <dimen name="line_space100">50dp</dimen>
+    <dimen name="line_space104">52dp</dimen>
+    <dimen name="line_space114">52dp</dimen>
+    <dimen name="line_space50">25dp</dimen>
+    <dimen name="line_space140">70dp</dimen>
+    <dimen name="line_space90">45dp</dimen>
+    <dimen name="line_space200">100dp</dimen>
+    <dimen name="line_space56">28dp</dimen>
+    <dimen name="line_space112">56dp</dimen>
+    <dimen name="line_space120">60dp</dimen>
+    <dimen name="line_space128">64dp</dimen>
+    <dimen name="line_space144">72dp</dimen>
+    <dimen name="font_size16">8dp</dimen>
+    <dimen name="font_size8">4dp</dimen>
+    <dimen name="font_size20">10dp</dimen>
+    <dimen name="font_size24">12dp</dimen>
+    <dimen name="font_size26">13dp</dimen>
+    <dimen name="font_size28">14dp</dimen>
+    <dimen name="font_size32">16dp</dimen>
+    <dimen name="font_size36">18dp</dimen>
+    <dimen name="font_size40">20dp</dimen>
+     <dimen name="font_size80">40dp</dimen>
+    <dimen name="fill_color_btn_hei">40dp</dimen>
+    <dimen name="del_dialog_wid">300dp</dimen>
+    <dimen name="line_space142">71dp</dimen>
+    <dimen name="find_loction_edittext_hei">32dp</dimen>
+	<dimen name="photo_grid">120dp</dimen>
+	<dimen name="orderitem_photo_grid_wid">85dp</dimen>
+	<dimen name="drug_icon_width">85dp</dimen>
+	<dimen name="drug_icon_hight">56dp</dimen>
+	<dimen name="bannerhei">190dp</dimen>
+	<dimen name="drugmaphei">80dp</dimen>
+	<dimen name="camerahei">160dp</dimen>
+	
+	<dimen name="freedrug_margin_left_right">2dp</dimen>
+	<dimen name="freedrug_pading_left_right">2dp</dimen>
+	
+	
+</resources>
